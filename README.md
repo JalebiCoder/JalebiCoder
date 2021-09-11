@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sushmita Paul
 - 👀 I’m interested in Machine learning, Data Science, Python.
-- 🌱 I’m currently learning Lynux
+- 🌱 I’m currently learning Full stack. 
 
 
 <!---
