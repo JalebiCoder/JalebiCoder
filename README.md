@@ -14,7 +14,7 @@
 const jalebi = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Java],
-  tools: [React, Redux, Node, Styled-Components],
+  tools: [React, Redux, Node, Styled-Components, Spring Boot, Hibernate, MySQL],
   misc: {
                         Nationality: "Indian",
                         Speaks: "English and Hindi",
