@@ -14,10 +14,10 @@
 const sushmita = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Java],
-  tools: [React, Redux, Node, Styled-Components, Spring Boot, Hibernate, MySQL],
+  tools: [React, Redux, Node, Styled-Components, Spring Boot, Hibernate, MySQL, Oracle],
   misc: {
                         Nationality: "Indian",
-                        Speaks: "English and Hindi",
+                        Speaks: "English Bengali Hindi",
                         Sips: "Coffee and Java"
                       },
 }
